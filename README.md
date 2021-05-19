@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZanZubair96
+- 👋 Hi, I’m Zan
 - 👀 I’m interested in 🌟🌟🌟 **Penetration testing** 🌟🌟🌟
 - 🌱 I’m currently learning 🌗🌗🌗 **JavaScript, Cypress, K8S** 🌗🌗🌗
 - 💞️ I’m looking to collaborate on 👬 👬 👬 **security based projects** 👬 👬 👬
