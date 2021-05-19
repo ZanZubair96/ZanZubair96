@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZanZubair96
-- 👀 I’m interested in Penteration testing
-- 🌱 I’m currently learning JavaScript, Cypress, K8S
-- 💞️ I’m looking to collaborate on security based projects
+- 👀 I’m interested in 🌟🌟🌟 **Penetration testing** 🌟🌟🌟
+- 🌱 I’m currently learning 🌗🌗🌗 **JavaScript, Cypress, K8S** 🌗🌗🌗
+- 💞️ I’m looking to collaborate on 👬 👬 👬 **security based projects** 👬 👬 👬
 - 📫 How to reach me zanzubair2@gmail.com
 
 <!---
