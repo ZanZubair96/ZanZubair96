@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zan
 - 👀 I’m interested in 🌟🌟🌟 **Penetration testing** 🌟🌟🌟
-- 🌱 I’m currently learning 🌗🌗🌗 **JavaScript, Cypress, K8S** 🌗🌗🌗
+- 🌱 I’m currently learning 🌗🌗🌗 **BlockChain and Smart Contract Testing** 🌗🌗🌗
 - 💞️ I’m looking to collaborate on 👬 👬 👬 **security based projects** 👬 👬 👬
 - 📫 How to reach me zanzubair2@gmail.com
 
